@@ -50,9 +50,9 @@ http://localhost:3000
 ---
 
 ## 📸 Screenshots
-
-(Add screenshots here after uploading them.)
-
+chatbot.png.png
+booking.png.png
+admin-dashboard.png.png
 ---
 
 ## 🎥 Demo Video
