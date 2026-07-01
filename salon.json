@@ -1,0 +1,25 @@
+{
+  "name": "Glow Beauty Salon",
+  "owner": "Boss",
+  "address": "Attapur",
+  "phone": "+91 9142877737",
+  "hours": "9 AM - 8 PM",
+
+  "services": [
+    {
+      "name": "Haircut",
+      "price": 300,
+      "duration": "30 minutes"
+    },
+    {
+      "name": "Hair Spa",
+      "price": 800,
+      "duration": "60 minutes"
+    },
+    {
+      "name": "Facial",
+      "price": 1000,
+      "duration": "60 minutes"
+    }
+  ]
+}
