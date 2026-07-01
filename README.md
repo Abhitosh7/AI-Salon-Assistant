@@ -50,9 +50,19 @@ http://localhost:3000
 ---
 
 ## 📸 Screenshots
-chatbot.png.png
-booking.png.png
-admin-dashboard.png.png
+
+### 🤖 AI Chatbot
+![AI Chatbot](chatbot.png.png)
+
+---
+
+### 📅 Appointment Booking
+![Appointment Booking](booking.png.png)
+
+---
+
+### 📊 Admin Dashboard
+![Admin Dashboard](admin-dashboard.png.png)
 ---
 
 ## 🎥 Demo Video
